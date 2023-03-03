@@ -50,6 +50,7 @@
     display: flex
     flex-direction: row
     flex-wrap: wrap
+
   .cartas
     display: flex
     flex-wrap: wrap
