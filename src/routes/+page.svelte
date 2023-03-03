@@ -12,10 +12,10 @@
       <Intro titulo="Cursos de especialización" />
     </div>
   
-    <!-- <div class="d-flex justify-content-center align-items-space-evenly "> -->
-      <div class="cartas d-flex pb-5" style="width: 100%">
+    <!-- <div class="d-flex flexing justify-content-center align-items-space-evenly "> -->
+      <div class="cartas d-flex flexing pb-5" style="width: 100%">
         <!-- <div class="container-fluid"> -->
-          <div class=" col-sm-6 col d-flex justify-content-center align-items-center cartilla">
+          <div class=" col-sm-6 col d-flex flexing justify-content-center align-items-center cartilla">
             <a href="/videojuegos">
               <Card
               sourc="../../img/videojuegos.jpg"
@@ -26,7 +26,7 @@
             </a>
           </div>
     
-          <div class=" col-sm-6 col d-flex justify-content-center align-items-center cartilla">
+          <div class=" col-sm-6 col d-flex flexing justify-content-center align-items-center cartilla">
             <a href="/ciberseguridad">
               <Card
               sourc="../../img/ciberseguridad.jpg"
@@ -46,7 +46,7 @@
 
 <style lang="sass">
 
-  .d-flex 
+  .flexing 
     display: flex
     flex-direction: row
     flex-wrap: wrap
