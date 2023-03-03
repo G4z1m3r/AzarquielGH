@@ -45,7 +45,6 @@
 
 
 <style lang="sass">
-
   .flexing 
     display: flex
     flex-direction: row
