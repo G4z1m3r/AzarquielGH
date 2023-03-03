@@ -45,10 +45,10 @@
 
 
 <style lang="sass">
-.flexing 
-  display: flex
-  flex-direction: row
-  flex-wrap: wrap
+  .flexing 
+    display: flex
+    flex-direction: row
+    flex-wrap: wrap
 
   .cartas
     display: flex
